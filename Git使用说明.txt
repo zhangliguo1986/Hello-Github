@@ -1,4 +1,6 @@
-﻿创建--初始化仓库：
+﻿参考：https://segmentfault.com/a/1190000004606816#articleHeader0
+
+创建--初始化仓库：
 
   1、建立一个目录，并初始化仓库。命令：git init
   2、查看仓库状态。命令：git status
