@@ -137,6 +137,7 @@ GitHub的几大功能
 常用的Git命令：
   
   基本操作：
+  git config --list :查看配置列表
   git init :初始化仓库
   git status :查看仓库状态
   git add :向暂存区中添加文件
